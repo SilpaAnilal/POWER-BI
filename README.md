@@ -13,4 +13,7 @@ The Assignment 1 is about data transformation (performing basic data cleaning) u
 
 4.Changed the headers of the loaded file 
 
+5.Manage Relationships
+
+
 
